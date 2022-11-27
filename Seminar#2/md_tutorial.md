@@ -22,3 +22,5 @@
 Пример:
 [![прикол](https://webgolovolomki.com/wp-content/uploads/2021/01/znimok-ekrana-2021-01-23-o-19.42.58.png)](https://www.youtube.com/watch?v=eXXg9zaJvh8
 )
+Пример второго изображения:
+![альтернативный текст](https://funart.pro/uploads/posts/2021-03/1617048969_52-p-oboi-krasivie-peizazhi-prirodi-56.jpg)
