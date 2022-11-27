@@ -24,3 +24,4 @@
 )
 Пример второго изображения:
 ![альтернативный текст](https://funart.pro/uploads/posts/2021-03/1617048969_52-p-oboi-krasivie-peizazhi-prirodi-56.jpg)
+
